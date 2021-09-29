@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulla-Osama-Yehya-Khatib
+- 👋 Hi, I’m @Abdulla Khatib
 - 👀 I’m interested in (informatics)
 - 🌱 I’m currently learning (informatics)
 - 💞️ I’m looking to collaborate on (informatic projects)
